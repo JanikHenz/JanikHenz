@@ -24,14 +24,3 @@
 ### 🏠 Self-Hosting & Hardware
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-[![Janik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanikHenz&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/JanikHenz)
-
-[![Janik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanikHenz&theme=dark)](https://github.com/JanikHenz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanikHenz&layout=compact&theme=dark)](https://github.com/JanikHenz)
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=JanikHenz&icon=0&color=0)](https://visitcount.itsvg.in)
