@@ -1,9 +1,5 @@
-# 💫 About Me
 
-> **Expert at turning "it works on my laptop" into "it’s now the cluster's problem."** ☸️
->
 > **Kubernetes** is my favorite way of **overcomplicating** a *Hello World* project. 🏗️
-> Just a **DevOps** enthusiast living life one **YAML** indentation and **CVE** at a time. 🔥
 
 ---
 
