@@ -1,5 +1,5 @@
 
-> **Kubernetes** is my favorite way of **overcomplicating** a *Hello World* project. 🏗️
+> **Kubernetes** is my favorite way of **overcomplicating** a *Hello World* project.
 
 ---
 
